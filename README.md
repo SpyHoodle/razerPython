@@ -1,5 +1,5 @@
 
-![Razer Keyboard](./razerkeyboard.jpg)
+![Razer Keyboard](./razerkeyboard.jpg=250x)
 # razerPython
 A library wrapper for controlling your razer devices easily with python<br>
 Coded by me with help of my friend [PineappleFan](https://github.com/pineapplefan1234YT)
