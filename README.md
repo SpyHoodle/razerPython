@@ -13,8 +13,10 @@ Then:
 **razer.apply(colour, effect, devices)**<br><br>
 **colour**
 - a hexadecimal code in the exact format `"FFFFFF"`<br>
+
 **effect**
 - currently truly supported: "static", sets device to one whole colour<br>
+
 **devices**
 - choose which devices from your dictionary to apply i.e \["kbd", "mouse",]
 - it must be the devices _friendlyname_
