@@ -1,3 +1,5 @@
+
+![Razer Keyboard](https://assets.razerzone.com/eeimages/support/products/1709/1709-blackwidow-v3-tkl.png)
 # razerPython
 A library wrapper for controlling your razer devices easily with python<br>
 Coded by me with help of my friend [PineappleFan](https://github.com/pineapplefan1234YT)
