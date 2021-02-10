@@ -1,2 +1,28 @@
 # razerPython
 A library wrapper for controlling your razer devices easily with python
+
+# Setup
+At the moment, devices are stored in a dictionary in the format {"friendlyname": <Device Object>, etc..}
+You can set the friendlynames to whatever you want, as that is the name you will use to apply effects and such.
+
+Then:
+- Update the for loop on line 10 with your devices
+- Update your list of friendly devices on line 28 to match your friendlynames
+
+
+# Apply
+**razer.apply(colour, effect, devices)**
+**colour**
+- a hexadecimal code in the exact format `"FFFFFF"`
+**effect**
+- currently truly supported: "static", sets device to one whole colour
+**devices**
+- choose which devices from your dictionary to apply i.e \["kbd", "mouse",]
+- it must be the devices _friendlyname_
+- leave blank to choose all devices
+
+**example**
+razer.apply("FFFFFF", "static", ["kbd", "mouse"])
+
+# Test.py
+Run test.py as an example
