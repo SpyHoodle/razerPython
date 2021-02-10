@@ -10,12 +10,12 @@ Then:
 - Update your list of friendly devices on line 28 to match your friendlynames
 
 # Apply
-**razer.apply(colour, effect, devices)**<br>
-**colour**<br>
-- a hexadecimal code in the exact format `"FFFFFF"`
-**effect**<br>
-- currently truly supported: "static", sets device to one whole colour
-**devices**<br>
+**razer.apply(colour, effect, devices)**<br><br>
+**colour**
+- a hexadecimal code in the exact format `"FFFFFF"`<br>
+**effect**
+- currently truly supported: "static", sets device to one whole colour<br>
+**devices**
 - choose which devices from your dictionary to apply i.e \["kbd", "mouse",]
 - it must be the devices _friendlyname_
 - leave blank to choose all devices
