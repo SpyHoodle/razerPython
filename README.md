@@ -1,5 +1,6 @@
 # razerPython
 A library wrapper for controlling your razer devices easily with python
+Coded by me and my friend (https://github.com/pineapplefan1234YT)[PineappleFan]
 
 # Setup
 At the moment, devices are stored in a dictionary in the format {"friendlyname": <Device Object>, etc.}<br>
