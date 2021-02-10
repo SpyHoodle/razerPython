@@ -2,7 +2,7 @@
 A library wrapper for controlling your razer devices easily with python
 
 # Setup
-At the moment, devices are stored in a dictionary in the format {"friendlyname": <Device Object>, etc..}
+At the moment, devices are stored in a dictionary in the format {"friendlyname": <Device Object>, etc..}\n
 You can set the friendlynames to whatever you want, as that is the name you will use to apply effects and such.
 
 Then:
