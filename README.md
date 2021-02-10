@@ -1,4 +1,4 @@
-<img src="razerkeyboard.jpg" alt="Razer Keyboard" width="200"/>
+<img src="razerkeyboard.jpg" alt="Razer Keyboard" width="300"/>
 
 # razerPython
 A library wrapper for controlling your razer devices easily with python<br>
